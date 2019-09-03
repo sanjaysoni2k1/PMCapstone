@@ -22,4 +22,14 @@ For this reason in this project we have used Turbofan Engine Degradation Simulat
 http://ti.arc.nasa.gov/project/prognostic-data-repository 
 
 ## Project Files
-[1. Data Processing] (https://github.com/sanjaysoni2k1/Predictive-Maintenance/blob/master/1.%20PredMaint-DataProcessing.ipynb)
+[1. Data Processing](https://github.com/sanjaysoni2k1/Predictive-Maintenance/blob/master/1.%20PredMaint-DataProcessing.ipynb)
+
+[2. Exploratory Data Analysis](https://github.com/sanjaysoni2k1/Predictive-Maintenance/blob/master/2.%20PredMaint-EDA.ipynb)
+
+[3. PCA and Data Clustering](https://github.com/sanjaysoni2k1/Predictive-Maintenance/blob/master/3.%20PredMaint-PCA-Clustering.ipynb)
+
+[4. Linear Regression](https://github.com/sanjaysoni2k1/Predictive-Maintenance/blob/master/4.%20PredMaint-LinearRegression.ipynb)
+
+[5. Binary Classification](https://github.com/sanjaysoni2k1/Predictive-Maintenance/blob/master/5.%20PredMaint-BinaryClassification.ipynb)
+
+[6. Multiclass Classification](https://github.com/sanjaysoni2k1/Predictive-Maintenance/blob/master/6.%20PredMaint-Multi-class%20Classification.ipynb)
