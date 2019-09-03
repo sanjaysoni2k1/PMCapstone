@@ -1,6 +1,6 @@
 # Predictive Maintenance using Machine Learning
 ## Overview
-This project is done as a Capstone Project required for Udacity's Machine Learning Nanodegree program. 
+This project has been done as a capstone project required for Udacity's Machine Learning Nanodegree program. 
 
 In this capstone project we have explored how to effectively undertake the journey from the paradigm of Preventive Maintenance (scheduled, time-based maintenance) to the paradigm of Predictive Maintenance, where we are able to predict when a failure may occur based on the telemetry data coming from variety of the sensors on the equipment and machinery.
 
